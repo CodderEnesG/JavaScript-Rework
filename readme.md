@@ -1,2 +1,3 @@
 ![image](firstImage.png)
-![image](secondImage.pgn)
+![image](secondImage.png)
+![image](thirdImage.png)
